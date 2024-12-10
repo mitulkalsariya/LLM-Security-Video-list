@@ -6,6 +6,8 @@ Welcome to the **LLM Security Learning Hub**! This repository is a curated colle
 
 ## 📚 **Start Here: OWASP Top 10 with LLM and GnAI**
 
+https://owasp.org/www-project-top-10-for-large-language-model-applications/
+
 The OWASP Top 10 is a standard awareness document for developers and security professionals. It represents a broad consensus about the most critical security risks to web applications and, in this case, LLMs. Below are some essential resources to kickstart your learning journey:
 
 ### 🔗 **Video Tutorials**
