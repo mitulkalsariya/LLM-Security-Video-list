@@ -8,6 +8,8 @@ Welcome to the **LLM Security Learning Hub**! This repository is a curated colle
 
 https://owasp.org/www-project-top-10-for-large-language-model-applications/
 
+You can check OWASP Whitepaper here: https://github.com/mitulkalsariya/LLM-Security-Video-list/LLMAll_en-US_FINAL.pdf
+
 The OWASP Top 10 is a standard awareness document for developers and security professionals. It represents a broad consensus about the most critical security risks to web applications and, in this case, LLMs. Below are some essential resources to kickstart your learning journey:
 
 ### 🔗 **Video Tutorials**
