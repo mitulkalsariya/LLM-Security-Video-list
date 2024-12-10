@@ -28,6 +28,4 @@ The OWASP Top 10 is a standard awareness document for developers and security pr
 3. Apply the concepts to your own projects to secure your LLM implementations.
 4. Share your learnings and contribute back to this repository by adding additional resources or insights.
 
----
 
-## 📂 **Repository Structure**
